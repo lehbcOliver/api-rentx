@@ -1,10 +1,5 @@
-**RF** => Requisitos Funcionais
-
-**RFN** => Requisitos nao funcionais
-
-**RN** => Regras de negocio
-
-
+#Api construida no Ignite da Rockeset#
+#Api de cadastro de aluguel de carros#
 #Cadastro de carro
 **RF**
 Deve ser possivel cadastrar um novo carro
